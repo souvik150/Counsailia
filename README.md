@@ -1,4 +1,4 @@
 
-# Natours APP
+# Counsailia
 
-A tour website made with both Frontend and Backend.
+A career counseling website made with both Frontend and Backend.
